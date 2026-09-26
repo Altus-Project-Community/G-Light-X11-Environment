@@ -1,6 +1,6 @@
 # G-Light-X11-Enviroment
-Repository for the G-Light X11 Enviroment (GLXE), the LXQt X11 lightweight variant of Cluster-Wayland-Desktop-Enviroment (CWDE)
+Repository for the G-Light X11 Environment (GLXE).
 
-Note that GLXE is still in development and is still kind of unstable, If you want an controlled Altus experience, PLEASE use https://github.com/Altus-Project-Community/Cluster-Wayland-Desktop-Enviroment-Synergy-1.0 , since its more modern and stable KDE-based desktop.
+GLXE is the default desktop environment for AltusOS. It will be present when you install AltusOS and in the Live Mode will be present too.
 
 <img width="3840" height="3840" alt="glxe-logo" src="https://github.com/user-attachments/assets/973d1697-3ca2-4e53-916d-bb1cac7227cc" />
