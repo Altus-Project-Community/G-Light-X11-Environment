@@ -1,4 +1,4 @@
-# G-Light-X11-Enviroment
+# G-Light-X11-Environment
 Repository for the G-Light X11 Environment (GLXE).
 
 GLXE is the default desktop environment for AltusOS. It will be present when you install AltusOS and in the Live Mode will be present too.
