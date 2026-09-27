@@ -1,0 +1,5 @@
+1. Move the /glxe-experimental/glxe-experimental-backends binary to /usr/bin.
+2. Move the /glxe-experimental/glxe-experimental.desktop to /usr/share/xsessions (make sure Xorg server is installed!)
+3. Install ALL THE DEPENDENCIES that are in REQUIRES.txt
+4. Go to your login screen and select GLXE (Experimental Backends).
+5. And now you're inside GLXE (Experimental)!
