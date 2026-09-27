@@ -1,0 +1,42 @@
+#!/bin/bash
+
+export DESKTOP_SESSION="GLXE"
+export XDG_CURRENT_DESKTOP="GLXE"
+export QT_QPA_PLATFORMTHEME="gtk2"
+
+# daemons
+xsettingsd &
+xfdesktop &
+
+# GVFS daemons
+/usr/libexec/gvfsd &
+/usr/libexec/gvfsd-fuse &
+
+# LXQt base
+lxpolkit &
+
+sleep 1
+
+thunar --daemon &
+tint2 &
+
+# picom compositor
+picom &
+
+# nitrogen
+nitrogen --restore &
+
+# conky
+
+(sleep 2 && conky) &
+
+# nm-applet
+
+nm-applet &
+
+# jgmenu
+
+jgmenu &
+
+exec wmaker
+

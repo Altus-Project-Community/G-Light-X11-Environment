@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=GLXE (Experimental Backends)
+Comment=The official DE for AltusOS
+Exec=/usr/bin/glxe-experimental-backends
+Type=Application
+DesktopNames=GLXE
