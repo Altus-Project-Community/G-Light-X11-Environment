@@ -1,0 +1,12 @@
+Window Maker
+Tint2
+jgmenu (or jgmenu-git if you are on Arch.)
+conky
+nitrogen
+lxpolkit
+gvfs
+thunar
+xfdesktop
+xsettingsd
+picom
+network-manager-applet
