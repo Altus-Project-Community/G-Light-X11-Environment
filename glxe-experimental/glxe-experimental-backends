@@ -18,7 +18,7 @@ lxpolkit &
 sleep 1
 
 thunar --daemon &
-tint2 &
+plank &
 
 # picom compositor
 picom &
