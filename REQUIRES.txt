@@ -1,5 +1,5 @@
 Window Maker
-Tint2
+Plank
 jgmenu (or jgmenu-git if you are on Arch.)
 conky
 nitrogen
